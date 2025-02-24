@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024 Your Name
+ * Copyright (c) 2024 Victor Reginato
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -23,5 +23,8 @@ module tt_um_example (
 
   // List all unused inputs to prevent warnings
   wire _unused = &{ena, clk, rst_n, 1'b0};
+  always @(posedge clk) begin
+    
+  end
 
 endmodule
