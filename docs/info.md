@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-is something
+SPI controller from NANDLAND channel
 
 ## How to test
 
 Write a table of expected answers
-## External hardware
-
-Led,buttom, 7seg display..
+## External hardware 
+osciloscope
